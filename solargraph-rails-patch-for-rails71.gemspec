@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email = ["masamitsu.murase@gmail.com"]
 
   spec.summary = "Resolve incompatibility issue of solargraph-rails with Rails 7.1"
-  spec.description = "Resolve incompatibility issue of solargraph-rails with Rails 7.1"
+  spec.description = "This library resolves incompatibility issue of solargraph-rails with Rails 7.1"
   spec.homepage = "https://github.com/masamitsu-murase/solargraph-rails-patch-for-rails71"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
@@ -29,7 +29,6 @@ Gem::Specification.new do |spec|
 
   # Uncomment to register a new dependency of your gem
   # spec.add_dependency "example-gem", "~> 1.0"
-  spec.add_dependency "solargraph-rails"
 
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html
