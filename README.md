@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/solargraph-rails-patch-for-rails71.svg)](https://badge.fury.io/rb/solargraph-rails-patch-for-rails71)
+
 # solargraph-rails-patch-for-rails71
 
 This is a library, which resolves incompatibility of [solargraph-rails](https://github.com/iftheshoefritz/solargraph-rails) with Rails 7.1.  
