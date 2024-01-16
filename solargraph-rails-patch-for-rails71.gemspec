@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email = ["masamitsu.murase@gmail.com"]
 
   spec.summary = "Resolve incompatibility issue of solargraph-rails with Rails 7.1"
-  spec.description = "This library resolves incompatibility issue of solargraph-rails with Rails 7.1"
+  spec.description = "This is a library, which resolves incompatibility of solargraph-rails with Rails 7.1. Please see my GitHub page for more details."
   spec.homepage = "https://github.com/masamitsu-murase/solargraph-rails-patch-for-rails71"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
