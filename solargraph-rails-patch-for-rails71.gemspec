@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = "solargraph-rails-patch-for-rails71"
-  spec.version = "0.1.0"
+  spec.version = "0.2.0"
   spec.authors = ["Masamitsu MURASE"]
   spec.email = ["masamitsu.murase@gmail.com"]
 
